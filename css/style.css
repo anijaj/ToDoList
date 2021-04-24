@@ -1,0 +1,60 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.headingText
+{
+    font-size: 110px;
+    color: rgb(51, 184, 224);
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.homebody
+{
+    background-image: url("/October-Desktop-She-Sows-Seeds.jpg");
+    background-size: cover;
+    height: auto;
+    width: auto;
+    padding :0;
+}
+
+.login
+{
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 50px;
+    border: 2px solid black;
+    margin-top: 75px;
+    margin-bottom: 80px;
+    margin-left: 35%;
+    margin-right: 150px;
+    width: 30%;
+    height: fit-content;
+}
+
+.todoBody
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUycCZv1iWsaCnVz4QA22M85D_9HZkNzApQg&usqp=CAU");
+    background-size: cover;
+    height: auto;
+    width: auto;
+    padding :0;
+}
+
+table
+{
+    margin-top: 70px;
+    width: 80%;
+    margin-left: 120px;
+}
+
+table, th, td
+{
+    border: 1px solid rgba(231, 84, 16, 0.7);
+    text-align: center;
+    padding: 5px;
+}
